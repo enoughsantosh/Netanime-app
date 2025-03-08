@@ -1,1 +1,7 @@
-h
+{
+  "app_name": "Netanime",
+  "version": "1.0",
+  "release_date": "2025-03-08",
+  "description": "Anime streaming website and Android app",
+  "website": "https://netanime.com",
+}
